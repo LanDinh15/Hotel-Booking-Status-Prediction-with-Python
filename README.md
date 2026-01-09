@@ -118,20 +118,6 @@ Each model was combined with multiple feature selection techniques.
 
 ---
 
-## Key Takeaways
-- Tree-based models outperform linear models on this dataset
-- Feature selection improves both accuracy and interpretability
-- Guest booking behavior is a strong predictor of cancellations
-
----
-
-## Future Improvements
-- Handle class imbalance using SMOTE or class weighting
-- Add ROC-AUC and precision-recall analysis
-- Deploy model using Streamlit or Flask
-
----
-
 ## Author
 **Lan Dinh**  
 Data Analytics / Machine Learning Project
